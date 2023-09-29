@@ -1,2 +1,3 @@
-# qsc-2023-r2-interview
-answer to qsc 2023 round two interview
+# 写完咯
+
+选的是 common 和 zjuam
